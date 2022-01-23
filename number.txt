@@ -2,4 +2,6 @@ adding number 1 file
 adding number 2
 adding number 3
 adding number 4
-dding number 5
+adding number 5
+adding number 6
+adding number 7
